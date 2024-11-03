@@ -110,7 +110,7 @@ For more information on SPC and DOE principles, consult the following resources:
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to **Salmane Koraichi** at [salmane.koraichi@example.com](mailto:salmane.koraichi@gmail.com).
+For any questions or feedback, please reach out to **Salmane Koraichi** at [salmane.koraichi@gmail.com](mailto:salmane.koraichi@gmail.com).
 
 ---
 
